@@ -11,10 +11,16 @@
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "redux-logger": "^3.0.6"
 =======
     "redux": "^4.0.5"
 >>>>>>> 98ad967a1e595b3471d841283d0b2a8bb99d333c
+=======
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6"
+>>>>>>> 97684212e25d630dc8c5aaf1579ebe4905cd8284
   },
   "scripts": {
     "start": "react-scripts start",
