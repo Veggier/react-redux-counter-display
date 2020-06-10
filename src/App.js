@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import ValueCounterContainer from './componets/containers/ValueCounterContainer'
 /*
 
 We will be making an application that displays a number value to the screen;
@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
-        <h1>Hello World!</h1>
+        <ValueCounterContainer />
       </div>
     </div>
   );
