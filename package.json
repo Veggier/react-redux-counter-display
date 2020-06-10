@@ -10,7 +10,11 @@
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
+<<<<<<< HEAD
     "redux-logger": "^3.0.6"
+=======
+    "redux": "^4.0.5"
+>>>>>>> 98ad967a1e595b3471d841283d0b2a8bb99d333c
   },
   "scripts": {
     "start": "react-scripts start",
