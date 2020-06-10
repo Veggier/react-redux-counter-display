@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import ValueCounterContainer from './componets/containers/ValueCounterContainer'
+
+import { ValueCounterContainer } from "./components/containers";
 /*
 
 We will be making an application that displays a number value to the screen;
